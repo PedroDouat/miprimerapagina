@@ -88,6 +88,9 @@ p {
   justify-content: center;
 }
 
+.greeting {
+  text-align: center;
+}
 
   @media (max-width: 768px) {
     .column {
